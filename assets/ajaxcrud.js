@@ -37,7 +37,7 @@ $(document).ready(function () {
         if (selectedIds.length == 0) {
             window.BootstrapDialog.show({
                 title: '提示',
-                message: '请选择要删除的项目',
+                message: '请选择要操作的项目',
                 buttons: [
                     {
                         label: '<i class="glyphicon glyphicon-ok"></i> 确定',

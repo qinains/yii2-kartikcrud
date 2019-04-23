@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require shmilyzxt/yii2-kartikcrud "dev-master"
+php composer.phar require qinains/yii2-kartikcrud "dev-master"
 ```
 
 or add
 
 ```
-"shmilyzxt/yii2-kartikcrud": "dev-master"
+"qinains/yii2-kartikcrud": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
